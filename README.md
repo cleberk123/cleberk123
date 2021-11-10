@@ -1,0 +1,5 @@
+- 👋 Olá, eu me chamo Cléber Augusto e atualmente possuo 20 anos.
+- ✨ Sou apaixonado em programação e tenho grande desejo de iniciar na carreira!
+- ✨ Atualmente estou apredendo Python de maneira completa com framework Django.
+- ✨ Atualmente trabalho como suporte de TI.
+- ✨ Podem me encontrar no Instagram cleber.august0 (https://www.instagram.com/cleber.august0/) ou no linkedin (https://www.linkedin.com/in/cleber-augusto-4295ba216/).
